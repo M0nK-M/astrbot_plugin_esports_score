@@ -1,5 +1,12 @@
 name: astrbot_plugin_esports_score
+display_name: 电竞比分查询
 desc: 通过 PandaScore 查询 CS2、英雄联盟、无畏契约、Dota 2 的比分赛程、战队阵容和赛事信息，供 LLM 调用
+short_desc: 让 Bot 能查 CS2、LoL、Valorant、Dota 2 的比分、赛程和阵容
 version: 1.1.0
 author: M0nK
 repo: https://github.com/M0nK-M/astrbot_plugin_esports_score
+tags:
+  - 电竞
+  - esports
+  - 比分
+  - LLM 工具
