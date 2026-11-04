@@ -1,0 +1,14 @@
+{
+  "pandascore_token": {
+    "description": "PandaScore API Token",
+    "type": "string",
+    "hint": "在 PandaScore 控制台复制 Your access token 填到这里",
+    "default": ""
+  },
+  "max_results": {
+    "description": "每次最多返回的比赛数或赛事数",
+    "type": "int",
+    "hint": "返回给模型的比赛或赛事条数，越多越费 token",
+    "default": 5
+  }
+}
